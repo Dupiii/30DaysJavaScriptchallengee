@@ -1,4 +1,4 @@
-// Day 2: Control Structures
+// Day 3: Control Structures
 
 // Tasks/Activities:
 
