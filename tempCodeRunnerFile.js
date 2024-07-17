@@ -1,1 +1,1 @@
-console.log(starRow)
+evenOdd(9)
